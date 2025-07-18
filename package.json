@@ -1,0 +1,28 @@
+{
+  "name": "autodevbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/safiullahkaleem2/autodevbot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/safiullahkaleem2/autodevbot/issues"
+  },
+  "homepage": "https://github.com/safiullahkaleem2/autodevbot#readme",
+  "dependencies": {
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0",
+    "openai": "^5.10.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3",
+    "zod": "^3.25.76"
+  }
+}
