@@ -14,7 +14,7 @@ const main = async () => {
   }
 
   const llmOutput = await callLLM(userPrompt);
-  console.log("🔍 Raw LLM output:\n", llmOutput);
+  console.log(" Raw LLM output:\n", llmOutput);
 
   const parsed = parseLLMResponse(llmOutput);
     await generateFiles(parsed);
