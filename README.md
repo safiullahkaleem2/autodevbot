@@ -1,4 +1,4 @@
-# 🛠️ AutoDevBot
+# AutoDevBot
 
 AutoDevBot is an AI-powered CLI tool that generates backend scaffolding (routes and models) files in TypeScript from natural language prompts using LLMs like OpenAI, Claude, or Mistral. It's built to accelerate early-stage backend development by turning plain English ideas into TypeScript/Express code — instantly.
 
